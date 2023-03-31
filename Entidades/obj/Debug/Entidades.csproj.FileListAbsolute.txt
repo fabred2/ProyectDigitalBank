@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\DigitalBank\Entidades\bin\Debug\Entidades.dll
+C:\Users\Asus\source\repos\DigitalBank\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Asus\source\repos\DigitalBank\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\DigitalBank\Entidades\obj\Debug\Entidades.dll
+C:\Users\Asus\source\repos\DigitalBank\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Asus\source\repos\DigitalBank\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache

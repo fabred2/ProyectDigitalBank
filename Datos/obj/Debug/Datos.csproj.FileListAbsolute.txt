@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\DigitalBank\Datos\bin\Debug\Datos.dll.config
+C:\Users\Asus\source\repos\DigitalBank\Datos\bin\Debug\Datos.dll
+C:\Users\Asus\source\repos\DigitalBank\Datos\bin\Debug\Datos.pdb
+C:\Users\Asus\source\repos\DigitalBank\Datos\bin\Debug\Entidades.dll
+C:\Users\Asus\source\repos\DigitalBank\Datos\bin\Debug\EntityFramework.dll
+C:\Users\Asus\source\repos\DigitalBank\Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\source\repos\DigitalBank\Datos\bin\Debug\Entidades.pdb
+C:\Users\Asus\source\repos\DigitalBank\Datos\bin\Debug\EntityFramework.xml
+C:\Users\Asus\source\repos\DigitalBank\Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\source\repos\DigitalBank\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\DigitalBank\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\DigitalBank\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Asus\source\repos\DigitalBank\Datos\obj\Debug\Datos.dll
+C:\Users\Asus\source\repos\DigitalBank\Datos\obj\Debug\Datos.pdb

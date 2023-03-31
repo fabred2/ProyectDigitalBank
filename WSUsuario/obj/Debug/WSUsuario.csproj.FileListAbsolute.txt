@@ -1,0 +1,17 @@
+C:\Users\Asus\source\repos\DigitalBank\WSUsuario\bin\WSUsuario.dll.config
+C:\Users\Asus\source\repos\DigitalBank\WSUsuario\bin\WSUsuario.dll
+C:\Users\Asus\source\repos\DigitalBank\WSUsuario\bin\WSUsuario.pdb
+C:\Users\Asus\source\repos\DigitalBank\WSUsuario\bin\Datos.dll
+C:\Users\Asus\source\repos\DigitalBank\WSUsuario\bin\Entidades.dll
+C:\Users\Asus\source\repos\DigitalBank\WSUsuario\bin\EntityFramework.dll
+C:\Users\Asus\source\repos\DigitalBank\WSUsuario\bin\Datos.pdb
+C:\Users\Asus\source\repos\DigitalBank\WSUsuario\bin\Datos.dll.config
+C:\Users\Asus\source\repos\DigitalBank\WSUsuario\bin\Entidades.pdb
+C:\Users\Asus\source\repos\DigitalBank\WSUsuario\bin\EntityFramework.xml
+C:\Users\Asus\source\repos\DigitalBank\WSUsuario\obj\Debug\WSUsuario.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\DigitalBank\WSUsuario\obj\Debug\WSUsuario.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\DigitalBank\WSUsuario\obj\Debug\WSUsuario.csproj.CopyComplete
+C:\Users\Asus\source\repos\DigitalBank\WSUsuario\obj\Debug\WSUsuario.dll
+C:\Users\Asus\source\repos\DigitalBank\WSUsuario\obj\Debug\WSUsuario.pdb
+C:\Users\Asus\source\repos\DigitalBank\WSUsuario\bin\EntityFramework.SqlServer.dll
+C:\Users\Asus\source\repos\DigitalBank\WSUsuario\bin\EntityFramework.SqlServer.xml

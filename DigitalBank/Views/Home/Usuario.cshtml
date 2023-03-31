@@ -1,0 +1,23 @@
+﻿@{
+    ViewBag.Title = "Usuario";
+}
+<h2>Inserción Usuario</h2>
+<br />
+Nombre
+<input type="text" class="form-control" id="nombre" />
+<br />
+Fecha de Nacimiento
+<input type="date" class="form-control" id="fecha" />
+<br />
+Sexo
+<select class="form-select" id="genero">
+    <option value="">
+        Seleccione...
+    </option>
+    <option value="M">Masculino</option>
+    <option value="F">Femenino</option>
+</select>
+<br />
+<button id="btnCrear" class="btn btn-success" onclick="oUsuario.setUser()">
+    Aceptar
+</button>

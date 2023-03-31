@@ -1,0 +1,51 @@
+﻿
+@{
+    ViewBag.Title = "Listado";
+}
+<h2>Listado</h2>
+<table id="tablaUsuarios" class="table table-warning">
+    <tr>
+        <th>Nombre</th>
+        <th>Fecha de Nacimiento</th>
+        <th>Sexo</th>
+        <th></th>
+        <th></th>
+        <th></th>
+
+    </tr>
+    @foreach (var item in ViewBag.Usuarios)
+    {
+
+        <tr>
+            <td>
+                <input type="text" class="baseTable" id="nombre_@item.Id" readonly value="@item.Nombre" />
+
+            </td>
+            <td>
+                <input type="date" class="baseTable" id="fecha_@item.Id" readonly value="@item.FechaNacimiento.ToString("yyyy-MM-dd")" />
+            </td>
+            <td>
+                <select class=" baseTable" id="genero_@item.Id" disabled>
+                    <option value="">
+                        Seleccione...
+                    </option>
+                    <option value="M" @(item.Sexo == "M" ? "selected" : "")>Masculino</option>
+                    <option value="F" @(item.Sexo == "F" ? "selected" : "")>Femenino</option>
+                </select>
+            </td>
+            <td>
+                <button id="del_@item.Id" onclick="oUsuario.DeleteUser(@item.Id)" class="btn btn-danger">Eliminar</button>
+            </td>
+            <td>
+                <button id="updt_@item.Id" onclick="oUsuario.UpdateUser(@item.Id)" class="btn btn-primary">Editar</button>
+            </td>
+            <td>
+                <button id="save_@item.Id" class="baseButton btn btn-success" onclick="oUsuario.SaveUser(@item.Id)">Actualizar</button>
+            </td>
+
+
+        </tr>
+    }
+</table>
+
+
